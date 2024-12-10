@@ -20,3 +20,9 @@ if __name__ == '__main__':
         answer1 = answer1 + math.prod(mul_param)
 
     print(f"Solution for first part is {answer1}")
+
+
+# TODO 2ND PART:
+# - Look for do and don't using a regex
+# - Extract substring between each do and don't occurences
+# - If do --> extract mul instructions
